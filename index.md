@@ -7,7 +7,7 @@
 	    <a href="ms-windows-store://pdp/?productid=9NL0NZL3G4C6" target="_blank3">broken at the moment</a>
             <a href="https://discord.gg/bpkdtYqV" target="_blank4">Discord That Inspired me</a>
             <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank4">My YouTube</a>
-		 
+	    <a href="paypal.me/gmodzhacks9935" target="_blank4">Donations</a>
 			<h1>
 				sup everyone my name is gmodz hacks on youtube today im sharing 
 				RetroArch signed for Retail Xbox One click RetroArch to begin your installation and please 
