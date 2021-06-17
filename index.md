@@ -11,8 +11,7 @@
 	    
 	
 	
-	<h1>
-		 style="color:aqua" 
+	style="color:aqua" <h1>
 	                        Sup Everyone My Name is gmodz hacks on youtube today im sharing RetroArch signed for Retail Xbox One 
 			        click RetroArch to begin your installation (Don't use D3D12 video driver) and please subscribe for 
 			        more content have a great day... Keep Browser open for 20 minutes of Synthwave [If You Want Stop The 
