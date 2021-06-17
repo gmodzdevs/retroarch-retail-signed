@@ -13,7 +13,6 @@
 	    <a href="https://paypal.me/gmodzhacks9935" class="btn _6"><span class="icon"></span>💰Donations💰</a>
 		
         </section>
-      </div>
     </header>
 
     <div class="container">
