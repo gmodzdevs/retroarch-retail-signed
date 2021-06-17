@@ -6,7 +6,7 @@
             <a href="https://discord.gg/bpkdtYqV" target="_blank2">Discord That Inspired me</a>
             <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank3">My YouTube</a>
 	    <a href="paypal.me/gmodzhacks9935" target="_blank4">Donations</a>
-	    <a href="paypal.me/gmodzhacks9935" class="btn 1"> class="btn btn-github"><span class="icon"></span>Donations</a>
+	    <a href="paypal.me/gmodzhacks9935" class="btn 1"> class="btn 1"><span class="icon"></span>Donations</a>
 			
 	            <h1>
 				Sup Everyone My Name is gmodz hacks on youtube today im sharing 
