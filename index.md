@@ -2,7 +2,7 @@
   
 	<p>	
 		 <a href="ms-windows-store://pdp/?productid=9PBZZ1DGXP0J" style="color:aqua" class="btn _1"><span class="icon"></span>RetroArch/QZARCH-[XS]</a>
-	         <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" style="color:"red" class="btn _2"><span class="icon"></span>My YouTube</a>
+	         <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" style="font-family:verdana" class="btn _2"><span class="icon"></span>My YouTube</a>
       		 <a href="https://www.youtube.com/channel/UCdZs8mB762Tse8lmAT2siiw" style="color:red" class="btn _3"><span class="icon"></span>Friends YouTube</a>
 	         <a href="https://paypal.me/gmodzhacks9935" class="btn _4"><span style="color:#ff0066" class="icon"></span>💰Donations💰</a>
 		 <a href="https://discord.gg/bpkdtYqV" style="color:#660066" class="btn _5"><span class="icon"></span>Discord That Inspired me</a>
