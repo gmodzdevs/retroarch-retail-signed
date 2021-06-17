@@ -1,11 +1,14 @@
 <HTML>
     <BODY>
          <p>
-            <a href="ms-windows-store://pdp/?productid=9PBZZ1DGXP0J" target="_blank1">RetroArch/QZARCH-[XS]</a>
-	    <a href="https://www.youtube.com/watch?v=N8_4SpF4Huw" target="_blank">Background Music</a> 
-            <a href="https://discord.gg/bpkdtYqV" target="_blank2">Discord That Inspired me</a>
-            <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" target="_blank3">My YouTube</a>
-	    <a href="paypal.me/gmodzhacks9935" target="_blank4">Donations</a>
+            <a href="ms-windows-store://pdp/?productid=9PBZZ1DGXP0J" class="btn_3"><span class="icon"></span>RetroArch/QZARCH-[XS]</a>
+		 
+            <a href="https://www.youtube.com/watch?v=N8_4SpF4Huw" class="btn_3"><span class="icon"></span>Background Music</a>
+		 
+            <a href="https://discord.gg/bpkdtYqV" class="btn_2"><span class="icon"></span>Discord That Inspired me</a>
+	    
+	    <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" class="btn_1"><span class="icon"></span>My YouTube</a>
+	    
 	    <a href="https://paypal.me/gmodzhacks9935" class="btn"><span class="icon"></span>Donations</a>
 			
 	            <h1>
