@@ -1,7 +1,7 @@
 <html lang="en-US">
   
 	<p>	
-		 <a href="ms-windows-store://pdp/?productid=9PBZZ1DGXP0J" class="btn _1"><span class="icon"> style="color:red" </span>RetroArch/QZARCH-[XS]</a>
+		 <a href="ms-windows-store://pdp/?productid=9PBZZ1DGXP0J"  style="color:red" class="btn _1"><span class="icon"></span>RetroArch/QZARCH-[XS]</a>
 	         <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" class="btn _2"><span class="icon"></span>My YouTube</a>
       		 <a href="https://www.youtube.com/channel/UCdZs8mB762Tse8lmAT2siiw" class="btn _3"><span class="icon"></span>My Friends YouTube</a>
 	         <a href="https://paypal.me/gmodzhacks9935" class="btn _4"><span class="icon"></span>💰Donations💰</a>
