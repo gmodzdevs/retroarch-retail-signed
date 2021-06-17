@@ -1,8 +1,6 @@
 <html lang="en-US">
   <header>
 	  
-        <h1>Retail Xbox Homebrew<h1>
-
         <section id="downloads">
           
           <a href="ms-windows-store://pdp/?productid=9PBZZ1DGXP0J" class="btn _1"><span class="icon"></span>RetroArch/QZARCH-[XS]</a>
@@ -11,7 +9,7 @@
 	    <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" class="btn _5"><span class="icon"></span>My YouTube</a>
 	    <a href="https://paypal.me/gmodzhacks9935" class="btn _6"><span class="icon"></span>💰Donations💰</a>
 		
-    </header>
+   </section>
 
     <div class="container">
       <section id="main_content">
