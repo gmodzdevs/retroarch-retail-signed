@@ -1,7 +1,7 @@
 <html lang="en-US">
   <header>
       <div class="container">
-        <h1> id="title" href="Retail Xbox Homebrew"<h1>
+        <h1>Retail Xbox Homebrew<h1>
         <h2></h2>
 
         <section id="downloads">
