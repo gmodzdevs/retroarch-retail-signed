@@ -6,7 +6,7 @@
       		 <a href="https://www.youtube.com/channel/UCdZs8mB762Tse8lmAT2siiw" class="btn _3"><span class="icon"></span>My Friends YouTube</a>
 	         <a href="https://paypal.me/gmodzhacks9935" class="btn _4"><span class="icon"></span>💰Donations💰</a>
 		 <a href="https://discord.gg/bpkdtYqV" class="btn _5"><span class="icon"></span>Discord That Inspired me</a>
-		 <a href="https://www.youtube.com/watch?v=N8_4SpF4Huw" class="btn _6"><span class="icon"></span>Background Music</a
+		 <a href="https://www.youtube.com/watch?v=N8_4SpF4Huw" class="btn _6"><span class="icon"></span>Background Music</a>
 	         
 	    
 	
