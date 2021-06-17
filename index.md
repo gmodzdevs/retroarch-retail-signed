@@ -1,8 +1,7 @@
 <html lang="en-US">
   <header>
-      <div class="container">
+	  
         <h1>Retail Xbox Homebrew<h1>
-        <h2></h2>
 
         <section id="downloads">
           
@@ -12,7 +11,6 @@
 	    <a href="https://www.youtube.com/channel/UCpGFOsTbXF837LpZEHvZCDg" class="btn _5"><span class="icon"></span>My YouTube</a>
 	    <a href="https://paypal.me/gmodzhacks9935" class="btn _6"><span class="icon"></span>💰Donations💰</a>
 		
-        </section>
     </header>
 
     <div class="container">
